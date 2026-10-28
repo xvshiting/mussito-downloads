@@ -19,4 +19,4 @@ iPhone 首发仍在 App Store 准备中。此仓库仅提供配套 Mac 程序、
 
 请通过本仓库 [Issues](https://github.com/xvshiting/mussito-downloads/issues) 反馈问题，提供应用版本、系统版本、识别方式和问题步骤。不要提交密码、配对链接、带密钥二维码、交易凭据或私人录音。
 
-隐私政策与安装说明见 [Mussito 网站](https://mussito.early-flame-4706.chatgpt.site)。网站仍处于发布准备阶段时，页面会明确提示。
+隐私政策与安装说明见 [Mussito 网站](https://xvshiting.github.io/mussito-downloads/)。网站仍处于发布准备阶段时，页面会明确提示。
