@@ -2,11 +2,11 @@
 
 Mussito 将 iPhone 或电脑麦克风的声音写入 Mac 当前输入框。支持 Mac 本地识别、豆包输入法和本机声纹过滤。
 
-iPhone 首发仍在 App Store 准备中。此仓库仅提供配套 Mac 程序、发行说明及问题反馈。
+iPhone 首发已提交 App Store 审核，尚未上架。此仓库仅提供配套 Mac 程序、发行说明及问题反馈。
 
 ## 下载
 
-请前往 [Releases](https://github.com/xvshiting/mussito-downloads/releases) 下载。正式 Mac 版需要有效的 Mussito Pro 权益，并通过 iPhone 同步。供 TestFlight / App Review 使用的版本会在文件名标明 ReviewBeta，需使用苹果签名的沙盒购买凭据。
+正式 Mac 配套版：[下载 1.0.1 ZIP](https://github.com/xvshiting/mussito-downloads/releases/download/mac-v1.0.1/Mussito-Mac-1.0.1.zip)。修复自动触发豆包输入的问题，并为命令行识别诊断补上购买授权校验。正式 Mac 版需要有效的 Mussito Pro 权益，并通过 iPhone 同步。供 TestFlight / App Review 使用的版本会在文件名标明 ReviewBeta，接受苹果签名的沙盒或正式购买凭据。沙盒购买不产生真实扣费，审核版仅供测试，不用于限制真实付费访问。
 
 ## 安装与要求
 
